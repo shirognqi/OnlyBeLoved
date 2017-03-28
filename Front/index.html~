@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="zh">
+	<head>
+		<meta charset="utf-8">
+		<title>狂龙</title>
+		<link rel="stylesheet" href=""></link>
+	</head>
+	<body>
+	<!-- 外部-底层-蒙版 -->
+	<div>外部-底层-蒙版</div>
+	<!-- 文章主体 -->
+	<main>
+	<!-- 页头 -->
+	<header></header>
+	<!-- 导航 -->
+	<nav></nav>
+	<!-- 左边栏 -->
+	<aside></aside>
+	<!-- 页眉 -->
+	<section></section>
+	<!-- 文章 -->
+	<article>
+	</article>
+	<!-- 页脚-->
+	<section></section>
+	<!-- 右边栏 -->
+	<aside></aside>
+	<!-- 页脚 -->
+	<footer>
+	</footer>
+	</main>
+	<!-- 外部-顶层-蒙版 -->
+	<div>外部-顶层-蒙版</div>
+	</body>
+</html>
